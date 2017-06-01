@@ -30,9 +30,4 @@ $(document).scroll(function(){
     }
     
     
-})
-
-
-$( "p" ).on( "mouseover", function() {
-  $( this ).css( "color", "red" );
 });
